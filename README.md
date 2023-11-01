@@ -1,0 +1,5 @@
+# Тех. поддержка
+
+- FastAPI
+- SqlAlchemy
+
